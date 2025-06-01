@@ -215,10 +215,8 @@ This framework is inspired by the "Puppeteer" model from:
 
 ## 📞 Support
 
-- 📧 Email: support@doa-framework.org
-- 💬 Discord: [Join our community](https://discord.gg/doa-framework)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-org/dynamic-orchestrator-agent/issues)
-- 📖 Docs: [Full Documentation](https://docs.doa-framework.org)
+- 📧 Email: sng@asyncfunc.ai
+- 💬 Discord: [Join our community](https://discord.gg/gMwThUMeme)
 
 ---
 
