@@ -1,6 +1,9 @@
 # Dynamic Orchestrator Agent (DOA) Framework 🎭
 
-A cutting-edge framework for adaptive multi-agent LLM collaboration with reinforcement learning-based orchestration, inspired by the "Puppeteer" model.
+A cutting-edge framework for adaptive multi-agent LLM collaboration with reinforcement learning-based orchestration, based on the "Puppeteer" model from the paper:
+
+**Based on the research:**
+📄 [Puppeteer: Adaptive Multi-Agent Orchestration with Reinforcement Learning](https://arxiv.org/abs/2505.19591)
 
 ## 🌟 Overview
 
